@@ -9,7 +9,7 @@ header,footer{
 	border: solid;
 	border-color:#cc0066;
 }
-header
+header{
 	background-color: #ffb3b3;
 	text-align: center;
 	padding: 15px;
