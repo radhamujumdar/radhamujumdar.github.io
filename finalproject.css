@@ -5,7 +5,7 @@ body{
 
 }
 header,footer{
-	background-image: url("https://radhamujumdar.github.io/pink.jpg");
+	background-image: url('https://radhamujumdar.github.io/pink.jpg');
 	border: solid;
 	border-color:#cc0066;
 }
